@@ -8,7 +8,7 @@ const App = () => {
     <SafeAreaView>
       <View>
         {/* <Greeting name="Props" /> */}
-        <Box />
+        <Box rounded size="large" color="blue" />
       </View>
     </SafeAreaView>
   );
